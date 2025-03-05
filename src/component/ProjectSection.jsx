@@ -1,7 +1,6 @@
 import React, { useRef, useState } from 'react'
 import { BsPauseFill, BsPlayFill } from 'react-icons/bs';
 import { HiArrowLeft, HiArrowRight } from 'react-icons/hi'
-import netflix from "../assets/netflix.mp4";
 import { Link } from 'react-router';
 import netflixlogo from "../assets/projects/netflixHome.png"
 import foodcartlogo from "../assets/projects/foodcarthome.png"
